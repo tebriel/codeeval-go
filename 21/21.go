@@ -1,4 +1,4 @@
-// Sample code to read in test cases:
+// https://www.codeeval.com/open_challenges/20/
 package main
 
 import "fmt"

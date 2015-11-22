@@ -1,3 +1,4 @@
+// https://www.codeeval.com/open_challenges/4/
 package main
 
 import "fmt"
